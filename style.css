@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1 {
+  color: rgb(21, 255, 0);
+  background-color: rgb(0, 0, 139);
+}
+#lang {
+  color: tomato;
+}
+#first-paragraph {
+  color: rgb(220, 20, 60);
+}
+.colored-paragraph {
+  color: rgb(34, 44, 178);
+}
